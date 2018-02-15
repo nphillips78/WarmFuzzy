@@ -1,0 +1,8 @@
+{
+  "name": "WarmFuzzy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nphillips78/WarmFuzzy.git",
+  "author": "Cole Phillips <nphillips78@gmail.com>",
+  "license": "MIT"
+}
