@@ -4,5 +4,16 @@
   "main": "index.js",
   "repository": "https://github.com/nphillips78/WarmFuzzy.git",
   "author": "Cole Phillips <nphillips78@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "knex": "^0.14.3",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.14.12",
+    "react": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "sqlite3": "^3.1.13"
+  }
 }
